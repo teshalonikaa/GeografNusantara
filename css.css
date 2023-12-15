@@ -1,0 +1,8 @@
+*{padding:0; margin:0;}
+
+body{background:#FFFFFFF; font-family: arial}
+header{background:#F2B195; widht:1300px; margin:auto; padding:20px}
+menu{background:#FFE6CD; widht:500px; margin:auto; padding:10px}
+menu a{color:red;text-decoration:none;margin:0 20px 0 0;}
+article{background:#EFEDE7; widht:800px; margin:auto; padding:10px}
+footer{background:#FCF5C7; widht:500px; margin:auto; padding:10px} 
